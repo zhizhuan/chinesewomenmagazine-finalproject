@@ -8,7 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: cwm001
+featured-image: chinesewomenmagazine-finalproject/objects/cover01.jpg
+
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 8em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -94,7 +95,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#1F1F1C"
+text-color: "#5F2414"
 link-color: "#719592"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
