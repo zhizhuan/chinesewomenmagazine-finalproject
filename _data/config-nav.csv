@@ -1,9 +1,15 @@
 display_name,stub,dropdown_parent
 Home,/
+About,/about.html
+Four Megazines,,
+Nüzi shijie (Women's World),/nzsj.html,Four Megazines
+Funü shibao (The Women's Eastern Times),/fnsb.html,Four Megazines
+Funü zazhi (The Ladies' Journal),/fnzz.html,Four Megazines
+Linglong (Elegance/La Petite),/ll.html,Four Megazines
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
-About,/about.html
+
