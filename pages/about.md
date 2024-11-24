@@ -27,4 +27,3 @@ For full details of the dataset, visit [Chinese Women Magazines in the Late Qing
 Zhibo Zhuang is a Ph.D. student in Information Science at Indiana University Bloomington.She has a wide range of academic interests spanning digital humanities, feminist history, and information behavior in disaster contexts.
 One of her current projects focuses on the historical development of feminism in China, examining the awakening and growth of women’s rights awareness from the May Fourth Movement to the early years of the People’s Republic of China. She is particularly interested in exploring contemporary challenges faced by Chinese women and analyzing the evolution and future directions of feminism through a historical lens. 
 For more information, here is her [Github page](https://github.com/zhizhuan)
-
