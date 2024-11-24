@@ -10,7 +10,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html objectid="cwm001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;People" %}
 
 ## About the Collection
 
