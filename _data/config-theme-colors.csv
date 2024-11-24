@@ -7,3 +7,5 @@ warning,
 danger,
 light,
 dark,
+newlight,#A79886
+newdark,#5F2414
