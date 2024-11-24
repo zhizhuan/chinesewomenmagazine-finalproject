@@ -5,9 +5,5 @@ success,
 info,
 warning,
 danger,
-light,
-dark,
-new1,#A79886
-new2,#A0482F
-new3,#719592
-new4,#5F2414
+light,#A79886
+dark,#5F2414
