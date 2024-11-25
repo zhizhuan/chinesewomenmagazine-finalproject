@@ -23,6 +23,18 @@ Examples of these four magazines:
 
 For full details of the dataset, visit [Chinese Women Magazines in the Late Qing and Early Republican Period](https://ecpo.cats.uni-heidelberg.de/frauenzeitschriften/index.php).
 
+## Significance and Future Direction
+
+This collection documents the voices of Chinese women during a period of social transformation, exploring topics like education, careers, marriage, and societal roles. It combines text, advertisements, and images and can serve as valuable records of cultural, social, and political changes in modern China, making it ideal for analyzing multimodal communication and media evolution in the early 20th century.
+
+I selected some representative scanned pages from articles to showcase the topics and keywords discussed in each magazine. The chart below shows the Top 15 shared keywords that appeared most frequently across all four magazines. These keywords are not isolated issues but rather central themes that connect the publications in a collective discourse on women’s rights and roles in early 20th-century China. 
+
+{% include feature/image.html objectid="assets/img/fig1.png" %}
+
+Influenced by the progressive ideals of the May Fourth Movement, keywords like "freedom" and "rights" often appear, reflecting the growing awareness among women about their roles and rights. Keywords such as "mother," "children," and "family" frequently show up, highlighting the societal expectations placed on women. These terms emphasize the traditional roles women were expected to fulfill, even as they pursued personal freedom and growth. Terms related to "education" and "school" are also prominent, illustrating women’s aspirations for self-sufficiency and opportunities through education. Additionally, with the influence of Western ideologies, terms like "foreign women," "American," and "equity" reflect the magazines’ efforts to introduce broader, progressive ideas into Chinese society, as well as women’s curiosity about the outside world.
+
+In the future, I hope to improve digitization of scanned content through OCR technology and use natural language processing to uncover deeper semantic connections. and partner with researchers in sociology, history, and computer science to unlock the dataset’s potential.
+
 ## People
 Zhibo Zhuang is a Ph.D. student in Information Science at Indiana University Bloomington.She has a wide range of academic interests spanning digital humanities, feminist history, and information behavior in disaster contexts.
 One of her current projects focuses on the historical development of feminism in China, examining the awakening and growth of women’s rights awareness from the May Fourth Movement to the early years of the People’s Republic of China. She is particularly interested in exploring contemporary challenges faced by Chinese women and analyzing the evolution and future directions of feminism through a historical lens. 
