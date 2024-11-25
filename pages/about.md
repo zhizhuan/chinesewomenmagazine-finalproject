@@ -33,7 +33,7 @@ I selected some representative scanned pages from articles to showcase the topic
 
 Influenced by the progressive ideals of the May Fourth Movement, keywords like "freedom" and "rights" often appear, reflecting the growing awareness among women about their roles and rights. Keywords such as "mother," "children," and "family" frequently show up, highlighting the societal expectations placed on women. These terms emphasize the traditional roles women were expected to fulfill, even as they pursued personal freedom and growth. Terms related to "education" and "school" are also prominent, illustrating women’s aspirations for self-sufficiency and opportunities through education. Additionally, with the influence of Western ideologies, terms like "foreign women," "American," and "equity" reflect the magazines’ efforts to introduce broader, progressive ideas into Chinese society, as well as women’s curiosity about the outside world.
 
-In the future, I hope to improve digitization of scanned content through OCR technology and use natural language processing to uncover deeper semantic connections. and partner with researchers in sociology, history, and computer science to unlock the dataset’s potential.
+In the future, I hope to improve digitization of scanned content through OCR technology and use natural language processing to uncover deeper semantic connections. And partner with researchers in sociology, history, and computer science to unlock the dataset’s potential.
 
 ## People
 Zhibo Zhuang is a Ph.D. student in Information Science at Indiana University Bloomington.She has a wide range of academic interests spanning digital humanities, feminist history, and information behavior in disaster contexts.
